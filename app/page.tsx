@@ -237,7 +237,7 @@ export default function Portfolio() {
             </h1>
 
             <p className="text-xl md:text-2xl text-muted-foreground mb-6">
-              Backend Developer & <span className="text-primary font-semibold">Problem Solver</span>
+              Software Developer & <span className="text-primary font-semibold">Problem Solver</span>
             </p>
 
             <p className="text-lg max-w-2xl mx-auto mb-8 leading-relaxed">
